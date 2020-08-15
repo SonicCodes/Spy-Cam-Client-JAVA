@@ -16,3 +16,4 @@ get your phone's ipaddress. and makesure it's accessable from the computer and c
 # Changes in progress
 ## -Stream audio from computer on will
 ## -a way to stop streams with a button touch.
+## -a way to touch the screen and other hardwares and software configuration from the computer
